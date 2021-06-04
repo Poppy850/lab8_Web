@@ -17,6 +17,9 @@ Buat folder lab8_php_database pada root directory web server (d:\xampp\htdocs)
 
 ![index lab8](https://user-images.githubusercontent.com/85287196/120793165-683b2f80-c4eb-11eb-976c-032ba39ef1f3.png)
 
+Membuat file koneksi database
+![koneksi berhasil](https://user-images.githubusercontent.com/85287196/120794704-6bcfb600-c4ed-11eb-8ef9-602c75d22e3b.png)
+
 Membuat file index untuk menampilkan data (Read)
 Buat file baru dengan nama index.php
 ![Data Barang](https://user-images.githubusercontent.com/85287196/120793246-8143e080-c4eb-11eb-88f8-240b4c977573.png)
