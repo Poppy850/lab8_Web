@@ -12,9 +12,9 @@ Membuat Database
 Menambahkan Data
 ![2](https://user-images.githubusercontent.com/85287196/120783073-8438d400-c4df-11eb-950e-7fb275cd3299.png)
 
+Buat folder lab8_php_database pada root directory web server (d:\xampp\htdocs) 
 ![3](https://user-images.githubusercontent.com/85287196/120783078-856a0100-c4df-11eb-8ec8-bf3fb214a260.png)
 
-Buat folder lab8_php_database pada root directory web server (d:\xampp\htdocs) 
 ![index lab8](https://user-images.githubusercontent.com/85287196/120793165-683b2f80-c4eb-11eb-976c-032ba39ef1f3.png)
 
 Membuat file index untuk menampilkan data (Read)
